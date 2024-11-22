@@ -1,3 +1,3 @@
 # DirectGaussian
 The code and resources will be open-sourced upon acceptance of the paper. We can provide code and resources if needed during the anonymous submission period.
-<video src="./scr/video.mp4"></video>
+<video src="https://github.com/HallingDong/DirectGaussian/blob/main/scr/video.mp4"></video>
